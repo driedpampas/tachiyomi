@@ -2,10 +2,14 @@
 |-------|--------|----------------|------------|
 | [![CI](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml/badge.svg)](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi/releases) | [![latest preview build](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi-preview.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi-preview/releases) | [![Translation status](https://hosted.weblate.org/widgets/tachiyomi/-/svg-badge.svg)](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget) |
 
+> [!IMPORTANT]
+> # This is a fork of Tachiyomi I made for no reason before it was deleted. Github links this repo to `mangafeed` which is what Tachi grew from iirc. I obviously won't be bothering to update this since I have been using a fork of Tachi for quite a long time.
+> # It's joever, loved this app. (Spiritual succesor is Mihon iirc: [mihonapp/mihon](https://github.com/mihonapp/mihon))
+
 # ![app icon](./.github/readme-images/app-icon.png)Tachiyomi
 Tachiyomi is a free and open source manga reader for Android 6.0 and above.
 
-## Features
+## FeaturesI
 
 Features include:
 * Online reading from a variety of sources
